@@ -21,12 +21,28 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\websites\afritz_portfolio\assets\img" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,6 +58,8 @@
       <workItem from="1616183910024" duration="4711000" />
       <workItem from="1616540662026" duration="3494000" />
       <workItem from="1616554279096" duration="3184000" />
+      <workItem from="1616640499603" duration="2808000" />
+      <workItem from="1616709653614" duration="10857000" />
     </task>
     <servers />
   </component>
@@ -49,9 +67,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="354" y="78" key="SettingsEditor" timestamp="1616554726731">
+    <state x="354" y="0" key="SettingsEditor" timestamp="1616642970782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="354" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616554726731" />
+    <state x="354" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616642970782" />
   </component>
 </project>
